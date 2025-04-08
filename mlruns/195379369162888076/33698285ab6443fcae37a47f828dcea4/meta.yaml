@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/kobe-bryant-shot-prediction/mlruns/195379369162888076/33698285ab6443fcae37a47f828dcea4/artifacts
+end_time: 1744069335243
+entry_point_name: ''
+experiment_id: '195379369162888076'
+lifecycle_stage: active
+run_id: 33698285ab6443fcae37a47f828dcea4
+run_name: PreparacaoDados
+run_uuid: 33698285ab6443fcae37a47f828dcea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744069335210
+status: 4
+tags: []
+user_id: codespace

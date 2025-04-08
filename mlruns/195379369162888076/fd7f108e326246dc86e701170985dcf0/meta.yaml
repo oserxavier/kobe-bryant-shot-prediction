@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/kobe-bryant-shot-prediction/mlruns/195379369162888076/fd7f108e326246dc86e701170985dcf0/artifacts
+end_time: 1744069846017
+entry_point_name: ''
+experiment_id: '195379369162888076'
+lifecycle_stage: active
+run_id: fd7f108e326246dc86e701170985dcf0
+run_name: sincere-jay-953
+run_uuid: fd7f108e326246dc86e701170985dcf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744069846007
+status: 3
+tags: []
+user_id: codespace
